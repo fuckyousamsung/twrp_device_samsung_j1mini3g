@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_j1minivelte-user
-add_lunch_combo omni_j1minivelte-userdebug
-add_lunch_combo omni_j1minivelte-eng
+add_lunch_combo omni_j1mini3g-user
+add_lunch_combo omni_j1mini3g-userdebug
+add_lunch_combo omni_j1mini3g-eng
