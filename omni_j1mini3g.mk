@@ -23,6 +23,6 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="j1miniveltejv-user 6.0.1 MMB29Q J106FJVU0ARH1 release-keys"
+    PRIVATE_BUILD_DESC="j1mini3gub-user 5.1.1 LMY47V J105BUBU0ARD1 release-keys"
 
-BUILD_FINGERPRINT := samsung/j1miniveltejv/j1minivelte:6.0.1/MMB29Q/J106FJVU0ARH1:user/release-keys
+BUILD_FINGERPRINT := samsung/j1mini3gub/j1mini3g:5.1.1/LMY47V/J105BUBU0ARD1:user/release-keys
