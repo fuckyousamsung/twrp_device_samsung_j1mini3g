@@ -40,8 +40,8 @@ BOARD_MKBOOTIMG_ARGS += --ramdisk_offset $(BOARD_RAMDISK_OFFSET)
 BOARD_MKBOOTIMG_ARGS += --tags_offset $(BOARD_KERNEL_TAGS_OFFSET)
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_KERNEL_SEPARATED_DT := true
-TARGET_KERNEL_CONFIG := j1minivelte_defconfig
-TARGET_KERNEL_SOURCE := kernel/samsung/j1minivelte
+TARGET_KERNEL_CONFIG := j1mini3g_defconfig
+TARGET_KERNEL_SOURCE := kernel/samsung/j1mini3g
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
