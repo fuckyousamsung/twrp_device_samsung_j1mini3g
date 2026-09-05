@@ -11,13 +11,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-# Inherit from j1minivelte device
-$(call inherit-product, device/samsung/j1minivelte/device.mk)
+# Inherit from j1mini3g device
+$(call inherit-product, device/samsung/j1mini3g/device.mk)
 
-PRODUCT_DEVICE := j1minivelte
-PRODUCT_NAME := omni_j1minivelte
+PRODUCT_DEVICE := j1mini3g
+PRODUCT_NAME := omni_j1mini3g
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-J106F
+PRODUCT_MODEL := SM-J105B
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
